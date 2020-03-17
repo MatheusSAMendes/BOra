@@ -1,11 +1,7 @@
 import React, { Component } from 'react'
-
 import PropTypes from 'prop-types'
-
 import mapboxgl from 'mapbox-gl'
-
 import './map.css'
-
 import Button from './button'
 
 class Map extends Component{
